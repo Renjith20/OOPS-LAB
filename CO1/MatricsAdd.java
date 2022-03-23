@@ -36,7 +36,7 @@ class MatricsAdd
        c[i][j] = a[i][j] + b[i][j] ; 
      }
     }
-    System.out.println("After Addition:");
+    System.out.println("Addition Result:");
      for(i = 0 ; i<n ; i++)
     { 
       for(j=0 ; j<m ; j++)
